@@ -6,7 +6,7 @@
 ## Alunos:
 Matheus Paiva Angarola ([Github](https://github.com/MatheusPaivaa))
 
-Renato Calacina Spessotto ([Github]())
+Renato Calacina Spessotto ([Github](https://github.com/renatocspessotto))
 
 Vinícius Felisberto dos Reis ([Github](https://github.com/viniciusfreiss))
 
