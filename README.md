@@ -1,4 +1,4 @@
-# Projeto ELetronica USP
+# Projeto Eletrônica USP
 ## Desenvolvido para a disciplina Eletônica para Computação.
 
 ## Alunos:
