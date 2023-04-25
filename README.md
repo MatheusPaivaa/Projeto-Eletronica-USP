@@ -1,6 +1,8 @@
 # Projeto Eletrônica USP
 ## Desenvolvido para a disciplina Eletônica para Computação.
 
+[...completar com o resto...]
+
 ## Alunos:
 Matheus Paiva Angarola ([Github](https://github.com/MatheusPaivaa))
 
