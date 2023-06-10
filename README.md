@@ -7,11 +7,6 @@ Desenvolvido para a disciplina Eletônica para Computação - SSC0180.
 
 **Fonte de Tensão (Tomada)** = Tensão AC de 127V, operando a uma frequência de 60Hz. 
 
-## Escolha dos componentes:
-| Quantidade    | Componentes   | Valor R$  |
-| ------------- |:-------------:| ---------:|
-| **Total**     |               | R$        |
-
 ## Componentes:
 
 - **Chave:** 
@@ -33,6 +28,11 @@ Desenvolvido para a disciplina Eletônica para Computação - SSC0180.
 - **Transistor:**
 
 - **Resistores:**
+
+## Escolha dos componentes:
+| Quantidade    | Componentes   | Valor R$  |
+| ------------- |:-------------:| ---------:|
+| **Total**     |               | R$        |
 
 ## Imagem do circuito (Falstad):
 Link do circuito no Falstad: [link]
