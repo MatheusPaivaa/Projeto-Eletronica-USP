@@ -49,11 +49,11 @@ Adicionar imagens...
 ## Alunos:
 Matheus Paiva Angarola - **12560982** ([Github](https://github.com/MatheusPaivaa))
 
+Nelly Vanesa Mollo Cossio -  
+
 Renato Calacina Spessotto - **14605824** ([Github](https://github.com/renatocspessotto))
 
 Vinícius Felisberto dos Reis - **13695390** ([Github](https://github.com/viniciusfreiss))
-
-Nelly Vanesa Mollo Cossio -  
 
 ## Agradecimentos:
 Agradecemos ao grandioso professor Eduardo do Valle Simões, **o Poderoso**.
