@@ -49,7 +49,7 @@ Adicionar imagens...
 ## Alunos:
 Matheus Paiva Angarola - **12560982** ([Github](https://github.com/MatheusPaivaa))
 
-Nelly Vanesa Mollo Cossio -  
+Nelly Vanesa Mollo Cossio -  **13684860**
 
 Renato Calacina Spessotto - **14605824** ([Github](https://github.com/renatocspessotto))
 
