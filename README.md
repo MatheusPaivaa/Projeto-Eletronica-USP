@@ -35,13 +35,14 @@ Desenvolvido para a disciplina Eletônica para Computação - SSC0180.
 | 1x | Fusível| | |
 | 1x | Chave | | |
 | 1x | Transformador | | |
+| 1x | Ponte de Diodo | | |
 | 1x | Capacitor | | |
 | 2x | Resistor 1K ||
 | 1x | Resistor 2.2K ||
 | 1x | Diodo Zener ||
-| 1x | Placa PCB||
 | 1x | Potênciometro ||
-| **Total**:     |               | | R$        |
+| 1x | Placa PCB ||
+| **Total**:     |               | | R$ 0,00 |
 
 ## Imagem do circuito (Falstad):
 Link do circuito no Falstad: [link]
