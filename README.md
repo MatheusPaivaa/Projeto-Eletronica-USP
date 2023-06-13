@@ -30,9 +30,18 @@ Desenvolvido para a disciplina Eletônica para Computação - SSC0180.
 - **Resistores:**
 
 ## Escolha dos componentes:
-| Quantidade    | Componentes   | Valor R$  |
-| ------------- |:-------------:| ---------:|
-| **Total**     |               | R$        |
+| Quantidade    | Componentes   | Descrição | Valor R$  |
+| :-------------: |:-------------:| :-------------: |---------:|
+| 1x | Fusível| | |
+| 1x | Chave | | |
+| 1x | Transformador | | |
+| 1x | Capacitor | | |
+| 2x | Resistor 1K ||
+| 1x | Resistor 2.2K ||
+| 1x | Diodo Zener ||
+| 1x | Placa PCB||
+| 1x | Potênciometro ||
+| **Total**:     |               | | R$        |
 
 ## Imagem do circuito (Falstad):
 Link do circuito no Falstad: [link]
