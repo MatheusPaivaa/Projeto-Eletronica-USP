@@ -46,7 +46,7 @@ Desenvolvido para a disciplina Eletônica para Computação - SSC0180.
 
 ## Imagem do circuito (Falstad):
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/MatheusPaivaa/Projeto-Eletronica-USP/blob/main/Screenshot_1.png) "Imagem falstad")
 
 Link do circuito no Falstad: [link]
 
