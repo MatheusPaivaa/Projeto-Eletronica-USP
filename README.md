@@ -27,6 +27,8 @@ Desenvolvido para a disciplina Eletônica para Computação - SSC0180.
 
 - **Resistores:** Os resistores são componentes eletrônicos que têm a função de limitar a corrente elétrica em um circuito. Eles são utilizados para ajustar o valor da resistência em um determinado ponto do circuito, garantindo que a corrente elétrica seja adequada para o funcionamento correto dos componentes conectados.
 
+- **Placa de Fenolite:** A placa de fenolite cobreado 10x5 é um material utilizado na fabricação de placas de circuito impresso (PCBs). Ela possui uma base de fenolite resistente e isolante, com uma camada de cobre em uma ou ambas as faces. Essa placa será usada como base para a PCB da fonte de tensão ajustável, permitindo a montagem dos componentes eletrônicos e a conexão entre eles por meio de trilhas de cobre.
+
 ## Escolha dos componentes:
 | Quantidade    | Componentes   | Descrição | Valor R$  |
 | :-------------: |:-------------:| :-------------: |---------:|
