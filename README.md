@@ -45,6 +45,9 @@ Desenvolvido para a disciplina Eletônica para Computação - SSC0180.
 | **Total**:     |               | | R$ 0,00 |
 
 ## Imagem do circuito (Falstad):
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 Link do circuito no Falstad: [link]
 
 ## Imagem do circuito (Eagle):
