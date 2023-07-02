@@ -9,25 +9,23 @@ Desenvolvido para a disciplina Eletônica para Computação - SSC0180.
 
 ## Componentes:
 
-- **Chave:** 
+- **Chave:** A chave é um componente elétrico que permite controlar o fluxo de corrente em um circuito. Neste caso, a chave será utilizada para ligar e desligar a fonte de tensão ajustável.
 
-- **Fusível:** 
+- **Fusível:** O fusível é um dispositivo de segurança que protege o circuito contra correntes excessivas. Ele é projetado para queimar e interromper o fluxo de corrente caso haja uma sobrecarga, evitando danos ao circuito e prevenindo possíveis curtos-circuitos.
 
-- **Transformador:**
+- **Transformador:**  O transformador é um dispositivo que permite ajustar a tensão de entrada para uma tensão desejada na saída. Neste caso, o transformador será utilizado para converter a tensão de entrada (da rede elétrica) para uma tensão adequada ao funcionamento da fonte de tensão ajustável.
 
-- **Pote de Diodo:**
+- **Pote de Diodo:**  pote de diodo é um componente eletrônico que consiste em um diodo semicondutor conectado a um potenciômetro. Ele é utilizado para ajustar a tensão de saída da fonte de tensão de forma contínua, permitindo selecionar valores entre 3V e 12V.
 
-- **Capacitor:**
+- **Capacitor:** O capacitor é um componente eletrônico que armazena energia em forma de carga elétrica. Neste caso, ele pode ser utilizado para suavizar as variações de tensão e reduzir o ruído na saída da fonte de tensão ajustável.
 
-- **LED:**
+- **LED:** O LED (Light Emitting Diode) é um dispositivo que emite luz quando a corrente elétrica passa por ele. Ele pode ser utilizado para indicar visualmente a presença de tensão na saída da fonte de tensão ajustável.
 
-- **Diodo Zener:**
+- **LM317T:** O LM317T é um regulador de tensão ajustável. Ele é um circuito integrado que permite controlar a tensão de saída de um circuito, de acordo com a tensão de referência e os valores dos componentes conectados a ele. Neste caso, o LM317T será utilizado como o regulador de tensão principal da fonte.
 
-- **Potênciometro:**
+- **Potênciometro:** O potenciômetro é um resistor ajustável que permite controlar a resistência em um circuito. Ele será utilizado para ajustar a tensão de saída da fonte de tensão ajustável, juntamente com o pote de diodo.
 
-- **Transistor:**
-
-- **Resistores:**
+- **Resistores:** Os resistores são componentes eletrônicos que têm a função de limitar a corrente elétrica em um circuito. Eles são utilizados para ajustar o valor da resistência em um determinado ponto do circuito, garantindo que a corrente elétrica seja adequada para o funcionamento correto dos componentes conectados.
 
 ## Escolha dos componentes:
 | Quantidade    | Componentes   | Descrição | Valor R$  |
@@ -46,9 +44,9 @@ Desenvolvido para a disciplina Eletônica para Computação - SSC0180.
 
 ## Imagem do circuito (Falstad):
 
-![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/MatheusPaivaa/Projeto-Eletronica-USP/blob/main/Screenshot_1.png) "Imagem falstad")
+![alt text](https://github.com/MatheusPaivaa/Projeto-Eletronica-USP/blob/bb30b421d8b77890bd81747cf89d786868ff0aa2/Screenshot_1.png "Imagem falstad")
 
-Link do circuito no Falstad: [link]
+Link do circuito no Falstad: [Falstad](https://tinyurl.com/22zg2rbu)
 
 ## Imagem do circuito (Eagle):
 Adicionar imagens...
