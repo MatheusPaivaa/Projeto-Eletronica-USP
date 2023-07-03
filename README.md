@@ -32,20 +32,20 @@ Desenvolvido para a disciplina Eletônica para Computação - SSC0180.
 ## Escolha dos componentes:
 | Quantidade    | Componentes   | Especificações | Valor R$  |
 | :-------------: |:-------------:| :-------------: |---------:|
-| 1x | Fusível 1A | | |
-| 1x | Porta Fusível | | |
-| 1x | Chave Gangorra | | |
-| 1x | Transformador | | |
-| 1x | Ponte de Diodo | | |
-| 1x | Capacitor 470uF | | |
-| 1x | Capacitor 100nF | | |
-| 1x | Resistor 5.6K Ω ||
-| 1x | Resistor 330 Ω ||
-| 1x | Resistor 270 Ω ||
-| 1x | LED Vermelho ||
-| 1x | LM317 ||
-| 1x | Potênciometro 2k ||
-| 1x | Placa de Fenolite 10x5 |Não precisa ser cobreada de ambos os lados|
+| 1x | Fusível | Ter entre 500mA e 1A | |
+| 1x | Porta Fusível | Qualquer um que caiba os fusíveis | |
+| 1x | Chave Gangorra | Nenhuma especificação | |
+| 1x | Transformador | Ser bivolt 18+18v 200mA | |
+| 1x | Ponte de Diodo | Ponte de no minimo 1A | |
+| 1x | Capacitor 470uF | Mínimo de 25V | |
+| 1x | Capacitor 100nF | Mínimo de 25V | |
+| 1x | Resistor 5.6K Ω | Mínimo de 1/2 W |
+| 1x | Resistor 330 Ω | Nenhuma especificação | 
+| 1x | Resistor 270 Ω | Nenhuma especificação |
+| 1x | LED | Qualquer cor|
+| 1x | LM317T | Precisa ter proteção térmica contra sobrecarga |
+| 1x | Potênciometro | Ser linear de 2K (2000Ω) |
+| 1x | Placa de Fenolite 10x5 | Não precisa ser cobreada de ambos os lados |
 | **Total**:     |               | | R$ 0,00 |
 
 ## Imagem do circuito (Falstad):
