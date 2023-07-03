@@ -73,7 +73,7 @@ Renato Calacina Spessotto - **14605824** ([Github](https://github.com/renatocspe
 Vinícius Felisberto dos Reis - **13695390** ([Github](https://github.com/viniciusfreiss))
 
 ## Conclusão:
-Através desse projeto, aprendemos sobre os princípios da retificação de corrente, transformação de tensão, regulagem de tensão e proteção elétrica. Também compreendemos a importância dos componentes utilizados e como eles interagem para garantir o funcionamento adequado da fonte de tensão ajustável. Esses conhecimentos podem ser aplicados em projetos futuros envolvendo eletrônica e alimentação de dispositivos que requerem tensões específicas.
+Por meio desse projeto, aprendemos sobre os princípios da retificação de corrente, transformação de tensão, regulagem de tensão e proteção elétrica. Também compreendemos a importância dos componentes utilizados e como eles interagem para garantir o funcionamento adequado da fonte de tensão ajustável. Esses conhecimentos podem ser aplicados em projetos futuros envolvendo eletrônica e alimentação de dispositivos que requerem tensões específicas.
 
 ## Agradecimentos:
 Agradecemos ao grandioso professor Eduardo do Valle Simões, **o Poderoso**.
