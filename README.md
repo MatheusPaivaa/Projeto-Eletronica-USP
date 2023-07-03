@@ -30,18 +30,22 @@ Desenvolvido para a disciplina Eletônica para Computação - SSC0180.
 - **Placa de Fenolite:** A placa de fenolite cobreado 10x5 é um material utilizado na fabricação de placas de circuito impresso (PCBs). Ela possui uma base de fenolite resistente e isolante, com uma camada de cobre em uma ou ambas as faces. Essa placa será usada como base para a PCB da fonte de tensão ajustável, permitindo a montagem dos componentes eletrônicos e a conexão entre eles por meio de trilhas de cobre.
 
 ## Escolha dos componentes:
-| Quantidade    | Componentes   | Descrição | Valor R$  |
+| Quantidade    | Componentes   | Especificações | Valor R$  |
 | :-------------: |:-------------:| :-------------: |---------:|
-| 1x | Fusível| | |
-| 1x | Chave | | |
+| 1x | Fusível 1A | | |
+| 1x | Porta Fusível | | |
+| 1x | Chave Gangorra | | |
 | 1x | Transformador | | |
 | 1x | Ponte de Diodo | | |
-| 1x | Capacitor | | |
-| 2x | Resistor 1K ||
-| 1x | Resistor 2.2K ||
-| 1x | Diodo Zener ||
-| 1x | Potênciometro ||
-| 1x | Placa PCB ||
+| 1x | Capacitor 470uF | | |
+| 1x | Capacitor 100nF | | |
+| 1x | Resistor 5.6K Ω ||
+| 1x | Resistor 330 Ω ||
+| 1x | Resistor 270 Ω ||
+| 1x | LED Vermelho ||
+| 1x | LM317 ||
+| 1x | Potênciometro 2k ||
+| 1x | Placa de Fenolite 10x5 |Não precisa ser cobreada de ambos os lados|
 | **Total**:     |               | | R$ 0,00 |
 
 ## Imagem do circuito (Falstad):
@@ -67,6 +71,9 @@ Nelly Vanesa Mollo Cossio -  **13684860**
 Renato Calacina Spessotto - **14605824** ([Github](https://github.com/renatocspessotto))
 
 Vinícius Felisberto dos Reis - **13695390** ([Github](https://github.com/viniciusfreiss))
+
+## Conclusão:
+Através desse projeto, aprendemos sobre os princípios da retificação de corrente, transformação de tensão, regulagem de tensão e proteção elétrica. Também compreendemos a importância dos componentes utilizados e como eles interagem para garantir o funcionamento adequado da fonte de tensão ajustável. Esses conhecimentos podem ser aplicados em projetos futuros envolvendo eletrônica e alimentação de dispositivos que requerem tensões específicas.
 
 ## Agradecimentos:
 Agradecemos ao grandioso professor Eduardo do Valle Simões, **o Poderoso**.
