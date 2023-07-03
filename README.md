@@ -59,7 +59,7 @@ Adicionar imagens...
 
 ## Funcionamento:
 
-- **Documento em PDF:**
+- **Documento em PDF:** [PDF](https://docs.google.com/document/d/1-9Oya-yLFN3rCFs4--Uhrb7HC6HWyEKhkQ9YGcFjMBw/edit?usp=sharing)
 
 - **Vídeo explicativo:**
 
