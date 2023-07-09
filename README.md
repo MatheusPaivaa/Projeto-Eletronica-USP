@@ -2,32 +2,36 @@
 Desenvolvido para a disciplina Eletônica para Computação - SSC0180.
 
 ## Situação Inicial:
-
+<p align="justify">
    Construção de uma fonte retificadora que consiga transformar corrente alternada (A/C) de 127V em corrente contínua (D/C). Além disso, deve ser possível ajustar a sua tensão em uma faixa de 3V até 12V, com capacidade de 100mA. 
+</p>
 
 **Fonte de Tensão (Tomada)** = Tensão AC de 127V, operando a uma frequência de 60Hz. 
 
 ## Componentes:
-
-- **Chave:** A chave é um componente elétrico que permite controlar o fluxo de corrente em um circuito. Neste caso, a chave será utilizada para ligar e desligar a fonte de tensão ajustável.
-
-- **Fusível:** O fusível é um dispositivo de segurança que protege o circuito contra correntes excessivas. Ele é projetado para queimar e interromper o fluxo de corrente caso haja uma sobrecarga, evitando danos ao circuito e prevenindo possíveis curtos-circuitos.
-
-- **Transformador:**  O transformador é um dispositivo que permite ajustar a tensão de entrada para uma tensão desejada na saída. Neste caso, o transformador será utilizado para converter a tensão de entrada (da rede elétrica) para uma tensão adequada ao funcionamento da fonte de tensão ajustável.
-
-- **Pote de Diodo:**  pote de diodo é um componente eletrônico que consiste em um diodo semicondutor conectado a um potenciômetro. Ele é utilizado para ajustar a tensão de saída da fonte de tensão de forma contínua, permitindo selecionar valores entre 3V e 12V.
-
-- **Capacitor:** O capacitor é um componente eletrônico que armazena energia em forma de carga elétrica. Neste caso, ele pode ser utilizado para suavizar as variações de tensão e reduzir o ruído na saída da fonte de tensão ajustável.
-
-- **LED:** O LED (Light Emitting Diode) é um dispositivo que emite luz quando a corrente elétrica passa por ele. Ele pode ser utilizado para indicar visualmente a presença de tensão na saída da fonte de tensão ajustável.
-
-- **LM317T:** O LM317T é um regulador de tensão ajustável. Ele é um circuito integrado que permite controlar a tensão de saída de um circuito, de acordo com a tensão de referência e os valores dos componentes conectados a ele. Neste caso, o LM317T será utilizado como o regulador de tensão principal da fonte.
-
-- **Potênciometro:** O potenciômetro é um resistor ajustável que permite controlar a resistência em um circuito. Ele será utilizado para ajustar a tensão de saída da fonte de tensão ajustável, juntamente com o pote de diodo.
-
-- **Resistores:** Os resistores são componentes eletrônicos que têm a função de limitar a corrente elétrica em um circuito. Eles são utilizados para ajustar o valor da resistência em um determinado ponto do circuito, garantindo que a corrente elétrica seja adequada para o funcionamento correto dos componentes conectados.
-
-- **Placa de Fenolite:** A placa de fenolite cobreado 10x5 é um material utilizado na fabricação de placas de circuito impresso (PCBs). Ela possui uma base de fenolite resistente e isolante, com uma camada de cobre em uma ou ambas as faces. Essa placa será usada como base para a PCB da fonte de tensão ajustável, permitindo a montagem dos componentes eletrônicos e a conexão entre eles por meio de trilhas de cobre.
+<p align="justify">
+   
+   - **Chave:** A chave é um componente elétrico que permite controlar o fluxo de corrente em um circuito. Neste caso, a chave será utilizada para ligar e desligar a fonte de tensão ajustável.
+   
+   - **Fusível:** O fusível é um dispositivo de segurança que protege o circuito contra correntes excessivas. Ele é projetado para queimar e interromper o fluxo de corrente caso haja uma sobrecarga, evitando danos ao circuito e prevenindo possíveis curtos-circuitos.
+   
+   - **Transformador:**  O transformador é um dispositivo que permite ajustar a tensão de entrada para uma tensão desejada na saída. Neste caso, o transformador será utilizado para converter a tensão de entrada (da rede elétrica) para uma tensão adequada ao funcionamento da fonte de tensão ajustável.
+   
+   - **Pote de Diodo:**  pote de diodo é um componente eletrônico que consiste em um diodo semicondutor conectado a um potenciômetro. Ele é utilizado para ajustar a tensão de saída da fonte de tensão de forma contínua, permitindo selecionar valores entre 3V e 12V.
+   
+   - **Capacitor:** O capacitor é um componente eletrônico que armazena energia em forma de carga elétrica. Neste caso, ele pode ser utilizado para suavizar as variações de tensão e reduzir o ruído na saída da fonte de tensão ajustável.
+   
+   - **LED:** O LED (Light Emitting Diode) é um dispositivo que emite luz quando a corrente elétrica passa por ele. Ele pode ser utilizado para indicar visualmente a presença de tensão na saída da fonte de tensão ajustável.
+   
+   - **LM317T:** O LM317T é um regulador de tensão ajustável. Ele é um circuito integrado que permite controlar a tensão de saída de um circuito, de acordo com a tensão de referência e os valores dos componentes conectados a ele. Neste caso, o LM317T será utilizado como o regulador de tensão principal da fonte.
+   
+   - **Potênciometro:** O potenciômetro é um resistor ajustável que permite controlar a resistência em um circuito. Ele será utilizado para ajustar a tensão de saída da fonte de tensão ajustável, juntamente com o pote de diodo.
+   
+   - **Resistores:** Os resistores são componentes eletrônicos que têm a função de limitar a corrente elétrica em um circuito. Eles são utilizados para ajustar o valor da resistência em um determinado ponto do circuito, garantindo que a corrente elétrica seja adequada para o funcionamento correto dos componentes conectados.
+   
+   - **Placa de Fenolite:** A placa de fenolite cobreado 10x5 é um material utilizado na fabricação de placas de circuito impresso (PCBs). Ela possui uma base de fenolite resistente e isolante, com uma camada de cobre em uma ou ambas as faces. Essa placa será usada como base para a PCB da fonte de tensão ajustável, permitindo a montagem dos componentes eletrônicos e a conexão entre eles por meio de trilhas de cobre.
+     
+</p>
 
 ## Escolha dos componentes:
 | Quantidade    | Componentes   | Especificações | Valor R$  |
@@ -57,7 +61,11 @@ Data de consulta: 02/07/2023
 Link do circuito no Falstad: [Falstad](https://tinyurl.com/22zg2rbu)
 
 ## Imagem do circuito (Eagle):
-Adicionar imagens...
+![alt text](https://github.com/MatheusPaivaa/Projeto-Eletronica-USP-Fonte/blob/main/circuito2.png "Imagem EAGLE 1")
+
+<p align="center">
+   <img align="center" text-align="center" width="65%" src="https://github.com/MatheusPaivaa/Projeto-Eletronica-USP-Fonte/blob/main/circuito%204.png">
+</p>
 
 ## Funcionamento:
 
@@ -75,7 +83,9 @@ Renato Calacina Spessotto - **14605824** ([Github](https://github.com/renatocspe
 Vinícius Felisberto dos Reis - **13695390** ([Github](https://github.com/viniciusfreiss))
 
 ## Conclusão:
+<p align="justify">
 Por meio desse projeto, aprendemos sobre os princípios da retificação de corrente, transformação de tensão, regulagem de tensão e proteção elétrica. Também compreendemos a importância dos componentes utilizados e como eles interagem para garantir o funcionamento adequado da fonte de tensão ajustável. Esses conhecimentos podem ser aplicados em projetos futuros envolvendo eletrônica e alimentação de dispositivos que requerem tensões específicas.
+</p>
 
 ## Agradecimentos:
 Agradecemos ao grandioso professor Eduardo do Valle Simões, **o Poderoso**.
