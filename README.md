@@ -8,6 +8,10 @@ Desenvolvido para a disciplina Eletônica para Computação - SSC0180.
 
 **Fonte de Tensão (Tomada)** = Tensão AC de 127V, operando a uma frequência de 60Hz. 
 
+<p align="center">
+   <img align="center" text-align="center" width="65%" src="https://github.com/MatheusPaivaa/Projeto-Eletronica-USP-Fonte/blob/main/circuito_placa.jpeg">
+</p>
+
 ## Componentes:
 <p align="justify">
    
@@ -65,6 +69,10 @@ Link do circuito no Falstad: [Falstad](https://tinyurl.com/22zg2rbu)
 
 <p align="center">
    <img align="center" text-align="center" width="65%" src="https://github.com/MatheusPaivaa/Projeto-Eletronica-USP-Fonte/blob/main/circuito%204.png">
+</p>
+
+<p align="center">
+   <img align="center" text-align="center" width="80%" src="https://github.com/MatheusPaivaa/Projeto-Eletronica-USP-Fonte/blob/main/circuito_solda.jpeg">
 </p>
 
 ## Funcionamento:
