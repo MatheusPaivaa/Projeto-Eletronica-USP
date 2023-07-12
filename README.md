@@ -79,7 +79,7 @@ Link do circuito no Falstad: [Falstad](https://tinyurl.com/22zg2rbu)
 
 - **Documento em PDF:** [PDF](https://docs.google.com/document/d/1-9Oya-yLFN3rCFs4--Uhrb7HC6HWyEKhkQ9YGcFjMBw/edit?usp=sharing)
 
-- **Vídeo explicativo:**
+- **Vídeo explicativo:** [Vídeo](https://www.youtube.com/watch?v=-PUwLhJURaA)
 
 ## Alunos:
 Matheus Paiva Angarola - **12560982** ([Github](https://github.com/MatheusPaivaa))
